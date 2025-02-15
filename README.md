@@ -54,15 +54,34 @@
 <!-- More showing off -->
 ---
 
+
+<!-- This is on the same line -->
+<!--
+[![Sam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IntentionalDisaster99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/IntentionalDisaster99/github-readme-stats#gh-dark-mode-only)
+[![Sam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IntentionalDisaster99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/IntentionalDisaster99/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intentionalDisaster99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+  
 <div align="center">
 <h3>:fire: My Stats : </h3>
 
+<!-- GitHub Stats (Light and Dark modes) -->
+[![Sam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IntentionalDisaster99&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/IntentionalDisaster99/github-readme-stats#gh-dark-mode-only)
+[![Sam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IntentionalDisaster99&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/IntentionalDisaster99/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=intentionalDisaster99&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- Flexbox for aligning smaller Top Languages card -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 10px; vertical-align:center;">
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntentionalDisaster99&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 35%;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intentionalDisaster99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Streak -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=intentionalDisaster99&theme=dark&background=000000" alt="GitHub Streak" style="width: 50%; margin-top: 10px;" />
+</div>
+
 
 </div>
+
 
 
 
