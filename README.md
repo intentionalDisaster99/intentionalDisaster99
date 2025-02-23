@@ -23,12 +23,12 @@
 
 <!-- About me page -->
 ### :technologist: About Me:
-- 👀 I’m interested in machine learning and cybersecurity.
-- 🌱 I’m currently learning machine learning with p5.js
-- 💞️ I’m looking to collaborate on not too much tbh.
-- 📫 How to reach me: Say my name three time. Three times in a row it must be spoken, unbroken!
+- 👀 I’m interested in machine learning and embedded programming.
+- 🌱 I’m currently learning embedded Rust, balloon simulation basics, C++ for uni, and SQL databases.
+- 💞️ I’m looking to collaborate on anything interesting or that could do good in the world.
+- 📫 How to reach me: Best way would be to email me at scw0035@uah.edu!
 - 😄 Pronouns: They/them
-- ⚡ Fun fact: I am in fact not real. You know, cause after all, if you're nobody, then you're perfect.
+- ⚡ Fun fact: My favorite language is Java!
 
 
 <!-- Showing off all of my skills -->
