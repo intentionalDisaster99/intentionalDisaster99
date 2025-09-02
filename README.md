@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/p5js/p5js-original.svg" title="p5.js++" **alt="p5.js width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLab" **alt="MATLab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original-wordmark.svg" title="Processing" **alt="Processing" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" **alt="Processing" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="puTTy" **alt="puTTy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" **alt="SSH" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" **alt="CPP" width="40" height="40"/>
