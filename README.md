@@ -28,7 +28,7 @@
 - 💞️ I’m looking to collaborate on anything interesting or that could do good in the world.
 - 📫 How to reach me: Best way would be to email me at scw0035@uah.edu!
 - 😄 Pronouns: They/them
-- ⚡ Fun fact: My favorite language is Java!
+- ⚡ Fun fact: I am currently the Software Lead for an [Orbital Research Group](https://github.com/TRANTOR-Orbital-Research-Group)!
 
 
 <!-- Showing off all of my skills -->
